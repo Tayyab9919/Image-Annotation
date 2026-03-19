@@ -7,7 +7,7 @@ This portfolio showcases my work in image annotation.
 ## Skills
 - Bounding Box Annotation
 - Object Detection
-- YOLO & COCO format labeling
+- YOLO format labeling
 
 ## Tools
 - Roboflow
@@ -16,4 +16,4 @@ This portfolio showcases my work in image annotation.
 - Vehicle Detection
 
 ## Note
-All annotations are manually created following proper guidelines.
+All annotations are manually created.
